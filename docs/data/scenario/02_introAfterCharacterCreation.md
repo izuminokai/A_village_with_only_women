@@ -2,7 +2,7 @@
 title: 導入_キャラクター作成後
 ---
 
-- 現在のシナリオ : [導入_キャラクター作成後](https://izuminokainovel.web.fc2.com/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html)->[導入後の流れ](https://izuminokainovel.web.fc2.com/A_village_with_only_women/data/scenario/03_afterTheIntro.html)
+- 現在のシナリオ : [導入_キャラクター作成後](https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html)->[導入後の流れ](https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html)
 - 参照した設定
     - なし（規定シナリオのため）
 
@@ -43,5 +43,6 @@ title: 導入_キャラクター作成後
 - 能力値 : 体力 0 / 知力 0 / 探索 0 / 交渉 0 / 魅力 0
 
 ---
+
 
 次の行動を宣言してください。
