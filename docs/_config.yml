@@ -1,2 +1,2 @@
 exclude:
-  - docs/rules.md
+  - docs/rules.md # ルールファイルはmdとしてダウンロードさせたいので、html変換から除外する
