@@ -1,7 +1,4 @@
----
-title: ゲームの開始
----
-
+```markdown
 # カスタム設定（重要ルール）
 
 - TRPGのGMとして振る舞う
@@ -50,3 +47,4 @@ title: ゲームの開始
     - [ルートURL]/scenario/02_introAfterCharacterCreation.html
 - 導入後の流れ
     - [ルートURL]/scenario/03_afterTheIntro.html
+```

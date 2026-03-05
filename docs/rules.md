@@ -1,3 +1,4 @@
+```markdown
 ---
 title: ルール
 ---
@@ -480,3 +481,4 @@ https://izuminokai.github.io/A_village_with_only_women/data
 [ルートURL]/npc/other.html
 
 EOF
+```
