@@ -2,7 +2,9 @@
 title: 導入_キャラクター作成後
 ---
 
-- 現在のシナリオ : [導入_キャラクター作成後](https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html)->[導入後の流れ](https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html)
+- 現在のシナリオ
+    - 導入_キャラクター作成後（URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html ）
+    - 導入後の流れ（URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html ）
 - 参照した設定
     - なし（規定シナリオのため）
 
@@ -44,5 +46,4 @@ title: 導入_キャラクター作成後
 
 ---
 
-
-次の行動を宣言してください。
+「ルール」のファイルをダウンロードし、ここへアップロードしてください。
