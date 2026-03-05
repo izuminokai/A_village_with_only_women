@@ -2,7 +2,7 @@
 title: データインデックス
 ---
 
-- [同行者](npc/companion.html)
+- [同行者](npc/companion.json)
 - [その他のNPC](npc/other.html)
 - [導入_キャラクター作成前](scenario/01_introBeforeCharacterCreation.html)
 - [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)

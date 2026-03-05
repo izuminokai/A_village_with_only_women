@@ -37,7 +37,7 @@ title: ゲームの開始
 # 外部リンク
 
 - ルートURL
-    - https://izuminokainovel.web.fc2.com/A_village_with_only_women/data
+    - https://izuminokai.github.io/A_village_with_only_women/data
 - 導入_キャラクター作成前
     - [ルートURL]/scenario/01_introBeforeCharacterCreation.html
 - キャラクターシート

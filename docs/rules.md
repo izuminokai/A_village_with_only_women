@@ -399,7 +399,7 @@ title: ルール
 
 # ルートURL
 
-https://izuminokainovel.web.fc2.com/A_village_with_only_women/data
+https://izuminokai.github.io/A_village_with_only_women/data
 
 # シナリオ
 
