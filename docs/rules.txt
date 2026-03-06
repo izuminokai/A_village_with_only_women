@@ -387,7 +387,7 @@ https://izuminokai.github.io/A_village_with_only_women/data
 
 ## 導入_キャラクター作成後
 
-[ルートURL]/scenario/02_introAfterCharacterCreation.txt
+[ルートURL]/scenario/02_introAfterCharacterCreation.html
 
 ## 導入後の流れ
 
@@ -451,7 +451,7 @@ https://izuminokai.github.io/A_village_with_only_women/data
 
 ## 同行者
 
-[ルートURL]/npc/companion.json
+[ルートURL]/npc/companion.html
 
 ## その他のNPC
 

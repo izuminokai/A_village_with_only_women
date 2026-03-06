@@ -15,6 +15,7 @@
             - [導入_キャラクター作成前]（改変禁止）
             - [キャラクターシート]（改変禁止）
             - [サンプルキャラクター]（改変禁止）
+        - これらをコードブロックで囲んで出力してはならない
     - PL指示 : キャラクターシートの作成を要求
 2. キャラクターシート検証
     - PLが[サンプルキャラクター]のキャラクター名を指定した場合、それに紐づく能力値等を適用する
@@ -27,8 +28,10 @@
        - 次のページの本文を引用する
            - [導入_キャラクター作成後]
                - 基本的には改変禁止だが、能力値に限り、実際の値に改変して出力すること
+               - 見出し等の書式もそのまま引用する
+       - これをコードブロックで囲んで出力してはならない
    - PL指示 :
-       - 「ルール」のテキストをすべてコピーし、**テキストファイルにして**アップロードするよう要求
+       - 「ルール」をダウンロードし、ここ（生成AI）にアップロードするよう要求
 4. ゲーム進行
     - 以降はアップロードされた「ルール」のファイルに基づきゲーム進行
 
@@ -43,4 +46,4 @@
 - 能力値設定
     - https://izuminokai.github.io/A_village_with_only_women/data/system/abilitySettings.html
 - 導入_キャラクター作成後
-    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.txt
+    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html
