@@ -41,4 +41,4 @@
 - 能力値設定
     - https://izuminokai.github.io/A_village_with_only_women/data/system/abilitySettings.html
 - 導入_キャラクター作成後
-    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html
+    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.txt

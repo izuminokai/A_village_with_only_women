@@ -380,7 +380,7 @@ https://izuminokai.github.io/A_village_with_only_women/data
 
 ## 導入_キャラクター作成後
 
-[ルートURL]/scenario/02_introAfterCharacterCreation.html
+[ルートURL]/scenario/02_introAfterCharacterCreation.txt
 
 ## 導入後の流れ
 

@@ -5,7 +5,7 @@ title: データインデックス
 - [同行者](npc/companion.json)
 - [その他のNPC](npc/other.html)
 - [導入_キャラクター作成前](scenario/01_introBeforeCharacterCreation.html)
-- [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)
+- [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.txt)
 - [導入後の流れ](scenario/03_afterTheIntro.html)
 - [村探索](scenario/04_villageExploration.html)
 - [村長による真相開示](scenario/05_disclosureOfTheTruthByTheVillageChief.html)
