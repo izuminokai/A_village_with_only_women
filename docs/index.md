@@ -6,7 +6,7 @@ title: 女性しかいない村
 
 1. [ゲームの開始](https://raw.githubusercontent.com/izuminokai/A_village_with_only_women/refs/heads/main/docs/gameStart.md) の**テキストをすべてコピー**し、生成AIチャットに貼り付けてください。
 2. 生成AIの指示通りに、自分のキャラクターを作成してください。
-3. <a href="rules.txt", download="rules.md">ルール</a> をダウンロードし、生成AIへアップロードしてください。
+3. <a href="rules.txt" download="rules.md">ルール</a> をダウンロードし、生成AIへアップロードしてください。
 4. 以降は、生成AIの指示に従ってください。
 
 # 推奨プレイ環境
