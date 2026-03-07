@@ -2,17 +2,17 @@
 title: 女性しかいない村
 ---
 
+# 推奨プレイ環境
+
+- ChatGPTの無料版にてテスト実施
+- **考える（Thinking）モードを強く推奨**
+
 # 遊び方
 
 1. [ゲームの開始](https://raw.githubusercontent.com/izuminokai/A_village_with_only_women/refs/heads/main/docs/gameStart.md) の**テキストをすべてコピー**し、生成AIチャットに貼り付けてください。
 2. 生成AIの指示通りに、自分のキャラクターを作成してください。
 3. <a href="rules.txt" download="ルール.md">ルール</a> をダウンロードし、生成AIへアップロードしてください。
 4. 以降は、生成AIの指示に従ってください。
-
-# 推奨プレイ環境
-
-- ChatGPTの無料版にてテスト
-- **Thinking（考える）モードを推奨**
 
 # 注意事項
 
