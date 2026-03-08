@@ -2,14 +2,6 @@
 title: 導入_キャラクター作成後
 ---
 
-# Webデータ収集
-
-- 現在のシナリオ
-    - 導入_キャラクター作成後（URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html ）
-    - 導入後の流れ（URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html ）
-- 参照した設定
-    - なし（規定シナリオのため）
-
 # 成否判定
 
 - 式: 妥当性（10） + 能力値なし（0） = 10
@@ -46,7 +38,7 @@ title: 導入_キャラクター作成後
 - 能力値: 体力 * / 知力 * / 探索 * / 交渉 * / 魅力 *
 - アプローチタグ: なし
 - シナリオ変数: なし
-- ターン数: 0（ルール再アップロードまで残り10）
+- ターン数: 1（ルール再アップロードまで残り9）
 
 # PLへの要求
 
