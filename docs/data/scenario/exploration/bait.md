@@ -11,3 +11,5 @@ title: カマかけ
     2. 夜になると、[村長]から呼び出される
        [村長]「知ってしまったのですね……」
     3. ->[村長による真相開示](../05_disclosureOfTheTruthByTheVillageChief.html)
+- 大成功以外の場合
+    - -> [村探索]

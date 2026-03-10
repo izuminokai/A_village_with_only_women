@@ -19,3 +19,5 @@ title: 推理
     2. 夜、[村長]に呼び出される
        [村長]「あなたはもう、気づいているのでしょう？」
     3. ->[村長による真相開示](../05_disclosureOfTheTruthByTheVillageChief.html)
+- 大成功以外の場合
+    - -> [村探索]
