@@ -24,6 +24,7 @@ title: GM用データインデックス
 - NPC設定
     - [同行者](npc/companion.html)
     - [婦人](npc/adultFemale.html)
+    - [村長](npc/villageChief.html)
     - [その他のNPC](npc/other.html)
 - 世界設定
     - [時代・国・季節](world/world.html)

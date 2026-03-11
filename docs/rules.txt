@@ -490,9 +490,18 @@ flowchart TD
     - True/False
 - セット条件
     - 初期値 : False
-    - [村長]に「村に定住したい」と伝える:=True
+    - [村長]に「村に定住したい」と伝える := True
 - 効果
     - [トゥルーエンド]で分岐する
+
+## 真相解明
+
+- 型
+    - True/False
+- セット条件
+    - [村長による真相開示]か[巫女による真相開示]のいずれかを達成 := True
+- 効果
+    - 一部のNPCが嘘をつかなくなる
 
 # ルートURL
 
@@ -595,6 +604,10 @@ flowchart TD
 ## 婦人
 
 - URL: [ルートURL]/npc/adultFemale.html
+
+## 村長
+
+- URL: [ルートURL]/npc/villageChief.html
 
 ## その他のNPC
 
