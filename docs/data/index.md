@@ -14,6 +14,7 @@ title: GM用データインデックス
         - [副長の村案内](scenario/exploration/deputyChiefsVillageGuide.html)
         - [謎の視線](scenario/exploration/mysteriousGaze.html)
         - [定住許可](scenario/exploration/residencePermit.html)
+        - [副長のノート](scenario/exploration/deputyChiefsNote.html)
     - [村長による真相開示](scenario/05_disclosureOfTheTruthByTheVillageChief.html)
     - [巫女による真相開示](scenario/06_disclosureOfTheTruthByTheShrineMaiden.html)
     - [決断の時](scenario/07_theMomentOfDecision.html)
