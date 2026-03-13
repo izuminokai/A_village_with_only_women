@@ -10,7 +10,7 @@ title: シナリオ
 
 - URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html
 
-# 導入後の流れ
+# 導入後
 
 - URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html
 

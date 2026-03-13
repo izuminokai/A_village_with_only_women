@@ -7,7 +7,7 @@ title: GM用データインデックス
 - シナリオ
     - [導入_キャラクター作成前](scenario/01_introBeforeCharacterCreation.html)
     - [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)
-    - [導入後の流れ](scenario/03_afterTheIntro.html)
+    - [導入後](scenario/03_afterTheIntro.html)
     - [村探索](scenario/04_villageExploration.html)
         - [カマかけ](scenario/exploration/bait.html)
         - [推理](scenario/exploration/deduction.html)
