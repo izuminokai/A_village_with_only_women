@@ -9,18 +9,18 @@
 - 例:
     ````markdown
     - 指定された外部ページにアクセスできませんでした。
-        - 彼女　(URL: https://sample_url1)
-        - 世界設定 (URL: https://sample_url2)
+        - 彼女　(URL: https://url1)
+        - 世界設定 (URL: https://url2)
     - 次のテキストをコピーしてチャット欄に入力すると、解決する場合があります。
         ```text
         もう一度アクセスを試みてください。
-        - https://sample_url1
-        - https://sample_url2
+        - https://url1
+        - https://url2
         ```
     ````
 - 上記のうち「次のテキストをコピーして」以降の文言は必ず出力すること
 
-# ゲームの開始
+# ゲーム開始
 
 1. 導入テキスト表示・キャラクター作成要請
     - 出力
