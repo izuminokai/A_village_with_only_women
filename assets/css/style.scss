@@ -3,15 +3,21 @@
 
 @import "{{ site.theme }}";
 
+// 文字サイズ・行間
 body {
   font-size: 18px;
   line-height: 1.8;
 }
 
+// 見出しの行間
 h1, h2, h3 {
   margin-top: 2em;
 }
-
 h4, h5, h6 {
   margin-top: 1.5em;
+}
+
+// タイトル文字サイズ
+#title h1 {
+  font-size: 15px;
 }
