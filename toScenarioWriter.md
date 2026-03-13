@@ -12,7 +12,7 @@ title: シナリオライターの方へ
 - 閲覧のみ
     - [GM用データインデックス](data/index.html)
 - データ取得
-    - [GitHub](https://github.com/izuminokai/A_village_with_only_women)
+    - [GitHub](https://github.com/izuminokai/A_Village_with_Only_Women)
     - Code -> Download ZIP でファイルがダウンロードできます
 
 ## ルールファイルは１万文字程度にする

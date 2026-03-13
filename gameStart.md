@@ -56,12 +56,12 @@
 # 外部リンク
 
 - 導入_キャラクター作成前
-    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/01_introBeforeCharacterCreation.html
+    - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
 - キャラクターシート
-    - https://izuminokai.github.io/A_village_with_only_women/data/system/characterSheet.html
+    - https://izuminokai.github.io/A_Village_with_Only_Women/data/system/characterSheet.html
 - サンプルキャラクター
-    - https://izuminokai.github.io/A_village_with_only_women/data/system/sampleCharacter.html
+    - https://izuminokai.github.io/A_Village_with_Only_Women/data/system/sampleCharacter.html
 - 免責事項
-    - https://izuminokai.github.io/A_village_with_only_women/disclaimer.html
+    - https://izuminokai.github.io/A_Village_with_Only_Women/disclaimer.html
 - 導入_キャラクター作成後
-    - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html
+    - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.html

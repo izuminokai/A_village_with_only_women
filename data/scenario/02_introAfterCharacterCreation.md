@@ -36,7 +36,7 @@ title: 導入_キャラクター作成後
 - アプローチタグ: なし
 - シナリオ変数: なし
 - ターン数: 1（ルール再アップロードまで残り9）
-- 次のシナリオ: 導入後 (URL: https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html)
+- 次のシナリオ: 導入後 (URL: https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/03_afterTheIntro.html)
 
 # PLへの要求
 

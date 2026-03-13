@@ -27,8 +27,8 @@ GMの進行がルールから逸脱したと感じる場合、次の手段で解
 
 ```markdown
 もう一度アクセスを試みてください。
-- https://izuminokai.github.io/A_village_with_only_women/data/scenario/03_afterTheIntro.html
-- https://izuminokai.github.io/A_village_with_only_women/data/npc/adultFemale.html
+- https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/03_afterTheIntro.html
+- https://izuminokai.github.io/A_Village_with_Only_Women/data/npc/adultFemale.html
 アクセスに成功したとしても、ページの内容は表示しないでください。
 ```
 

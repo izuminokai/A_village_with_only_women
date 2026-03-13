@@ -416,7 +416,7 @@ title: ルール
 
 # ルートURL
 
-- URL: https://izuminokai.github.io/A_village_with_only_women/data
+- URL: https://izuminokai.github.io/A_Village_with_Only_Women/data
 
 # シナリオ変数
 

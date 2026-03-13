@@ -11,7 +11,7 @@ title: 生成AI TRPG「女性しかいない村」
 
 ## 遊び方
 
-1. [ゲームの開始](https://raw.githubusercontent.com/izuminokai/A_village_with_only_women/refs/heads/main/gameStart.md)
+1. [ゲームの開始](https://raw.githubusercontent.com/izuminokai/A_Village_with_Only_Women/refs/heads/main/gameStart.md)
    のテキストをすべてコピーし、生成AIチャットに貼り付けてください。
 2. 生成AIの指示通りに、自分のキャラクターを作成してください。
 3. <a href="rules.txt" download="ルール.md">ルール</a> をダウンロードし、生成AIへアップロードしてください。
