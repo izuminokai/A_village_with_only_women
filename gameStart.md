@@ -42,8 +42,8 @@
         - PLが了承すれば、そのままゲーム開始は可能
 3. 導入テキスト表示・ルールファイル要求
     - 出力
-        - [免責事項（必読）]を引用する（改変禁止）
-        - 次のページの本文を引用する
+        - 次の2つのページの本文を引用する
+            - [免責事項]（改変禁止）
             - [導入_キャラクター作成後]
                 - 基本的には改変禁止だが、以下の項目に限り、実際の値に改変して出力すること
                     - 能力値
@@ -53,14 +53,6 @@
 4. ゲーム進行
     - 以降はアップロードされた「ルール」のファイルに基づきゲーム進行
 
-# 免責事項（必読）
-
-- 本ゲームをプレイすることによる如何なる損害も、筆者は責任を負いません。
-- 本シナリオそのものには性的・猟奇的な内容は含まれていませんが、PLの行動宣言次第ではそうした展開になり得ます。
-    - それに伴う**生成AIのアカウント停止（通称BAN）等の不利益について、筆者は責任を負いません。**
-    - そういった展開を禁止したい場合は、その旨を生成AIへ指示してください。ただしそれによって上述の不利益を防止できるという保証は出来ません。
-- 本ゲームの登場人物は、特に明記されていない限りは全員成人（18歳以上）です。
-
 # 外部リンク
 
 - 導入_キャラクター作成前
@@ -69,5 +61,7 @@
     - https://izuminokai.github.io/A_village_with_only_women/data/system/characterSheet.html
 - サンプルキャラクター
     - https://izuminokai.github.io/A_village_with_only_women/data/system/sampleCharacter.html
+- 免責事項
+    - https://izuminokai.github.io/A_village_with_only_women/disclaimer.html
 - 導入_キャラクター作成後
     - https://izuminokai.github.io/A_village_with_only_women/data/scenario/02_introAfterCharacterCreation.html
