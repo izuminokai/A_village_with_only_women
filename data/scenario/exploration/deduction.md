@@ -15,9 +15,9 @@ title: 推理
         - [同行者の母]と1回以上話した
         - [同行者の母]が若すぎることに違和感を抱いた
 - 大成功の場合
-    1. PCが[村探索.真相]を推理で導き出す
+    1. PCが[シナリオ.村探索.真相]を推理で導き出す
     2. 夜、[村長]に呼び出される
        [村長]「あなたはもう、気づいているのでしょう？」
-    3. ->[村長による真相開示](../05_disclosureOfTheTruthByTheVillageChief.html)
+    3. ->[シナリオ.村長による真相開示](../05_disclosureOfTheTruthByTheVillageChief.html)
 - 大成功以外の場合
-    - -> [村探索]
+    - -> [シナリオ.村探索](../04_villageExploration.html)

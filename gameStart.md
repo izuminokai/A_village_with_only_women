@@ -25,7 +25,7 @@
 1. 導入テキスト表示・キャラクター作成要請
     - 出力
         - 次の3つのページの本文を引用する
-            - [導入_キャラクター作成前]（改変禁止）
+            - [シナリオ.導入_キャラクター作成前]（改変禁止）
             - [キャラクターシート]（改変禁止）
             - [サンプルキャラクター]（改変禁止）
         - これらをコードブロックで囲んで出力してはならない
@@ -44,7 +44,7 @@
     - 出力
         - 次の2つのページの本文を引用する
             - [免責事項]（改変禁止）
-            - [導入_キャラクター作成後]
+            - [シナリオ.導入_キャラクター作成後]
                 - 基本的には改変禁止だが、以下の項目に限り、実際の値に改変して出力すること
                     - 能力値
                     - 最終目的
@@ -55,7 +55,7 @@
 
 # 外部リンク
 
-- 導入_キャラクター作成前
+- シナリオ.導入_キャラクター作成前
     - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
 - キャラクターシート
     - https://izuminokai.github.io/A_Village_with_Only_Women/data/system/characterSheet.html
@@ -63,5 +63,5 @@
     - https://izuminokai.github.io/A_Village_with_Only_Women/data/system/sampleCharacter.html
 - 免責事項
     - https://izuminokai.github.io/A_Village_with_Only_Women/disclaimer.html
-- 導入_キャラクター作成後
+- シナリオ.導入_キャラクター作成後
     - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.html

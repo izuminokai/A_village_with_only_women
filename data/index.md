@@ -42,7 +42,6 @@ title: GM用データインデックス
 
 # 世界設定
 
-- [時代・国・季節](world/world.html)
 - [村](world/village.html)
 - [施設](world/facility.html)
 

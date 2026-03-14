@@ -53,4 +53,4 @@ title: 決断の時
         1. 1ヶ月後、NPCは死亡
         2. 2年後、村のことが外部に漏れて、村に大量の人間が押し寄せる。混乱と共に村は破滅（バッドエンド）
     - 神鏡を壊す
-        - ->[協力要請](08_requestForCooperation.html)
+        - ->[シナリオ.協力要請](08_requestForCooperation.html)
