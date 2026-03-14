@@ -39,7 +39,7 @@ title: 副長
     - 自分のことになるとだらしない
 - 暴走しがち
 - 趣味は作詞、作曲、執筆など
-    - [シナリオ.副長のノート]
+    - [シナリオ.副長のノート](../scenario/exploration/deputyChiefsNote.html)
 
 # 台詞
 
