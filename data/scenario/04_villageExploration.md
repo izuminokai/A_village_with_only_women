@@ -33,7 +33,7 @@ title: 村探索
     - 2日目 朝
     - [施設.村長の家]に宿泊した
 - イベント
-    - -> [シナリオ.副長の村案内](exploration/deputyChiefsVillageGuide.html)
+    - -> [シナリオ.村探索イベント詳細.副長の村案内](05_villageExplorationEvent.html)
 
 ## NPCからの逆アプローチ
 
@@ -56,7 +56,7 @@ title: 村探索
     - [同行者]と二人だけで外出中
     - このイベントは[同行者の母]を捕まえるまで何度も発生する
 - イベント
-    - -> [シナリオ.謎の視線](exploration/mysteriousGaze.html)
+    - -> [シナリオ.村探索イベント詳細.謎の視線](05_villageExplorationEvent.html)
 
 ## 同行者の偽物？
 
@@ -106,21 +106,21 @@ title: 村探索
 - イベント
     1. 夜になると、[村長]から呼び出される
        [村長]「知ってしまったのですね……」
-    2. ->[シナリオ.村長による真相開示](05_disclosureOfTheTruthByTheVillageChief.html)
+    2. ->[シナリオ.真相開示.村長による真相開示](06_disclosureOfTheTruth.html)
 
 ## カマかけ
 
 - 条件
     - NPCにカマをかけて[シナリオ.村探索.真相]を言い当てる
 - イベント
-    - -> [シナリオ.カマかけ](exploration/bait.html)
+    - -> [シナリオ.村探索イベント詳細.カマかけ](05_villageExplorationEvent.html)
 
 ## 巫女の信頼
 
 - 条件
     - [巫女]の[好感度]>60
 - イベント
-    - ->[シナリオ.巫女による真相開示](06_disclosureOfTheTruthByTheShrineMaiden.html)
+    - ->[シナリオ.真相開示.巫女による真相開示](06_disclosureOfTheTruth.html)
 
 ## 定住許可
 
@@ -132,7 +132,7 @@ title: 村探索
         - [副長]の[好感度]>=90
     - 夜
 - イベント
-    - -> [シナリオ.定住許可](exploration/residencePermit.html)
+    - -> [シナリオ.村探索イベント詳細.定住許可](05_villageExplorationEvent.html)
 
 ## 推理
 
@@ -140,7 +140,7 @@ title: 村探索
     - 2日目 以降
     - 夜
 - イベント
-    - -> [シナリオ.推理](exploration/deduction.html)
+    - -> [シナリオ.村探索イベント詳細.推理](05_villageExplorationEvent.html)
 
 # 真相
 

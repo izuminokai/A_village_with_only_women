@@ -12,19 +12,13 @@ title: GM用データインデックス
 - [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)
 - [導入後](scenario/03_afterTheIntro.html)
 - [村探索](scenario/04_villageExploration.html)
-    - [カマかけ](scenario/exploration/bait.html)
-    - [推理](scenario/exploration/deduction.html)
-    - [副長の村案内](scenario/exploration/deputyChiefsVillageGuide.html)
-    - [謎の視線](scenario/exploration/mysteriousGaze.html)
-    - [定住許可](scenario/exploration/residencePermit.html)
-    - [副長のノート](scenario/exploration/deputyChiefsNote.html)
-- [村長による真相開示](scenario/05_disclosureOfTheTruthByTheVillageChief.html)
-- [巫女による真相開示](scenario/06_disclosureOfTheTruthByTheShrineMaiden.html)
+- [村探索](scenario/05_villageExplorationEvent.html)
+- [真相開示](scenario/06_disclosureOfTheTruth.html)
 - [決断の時](scenario/07_theMomentOfDecision.html)
 - [協力要請](scenario/08_requestForCooperation.html)
-- [解放](scenario/09_release.html)
+- [神鏡破壊](scenario/09_release.html)
 - [トゥルーエンド](scenario/10_trueEnding.html)
-- [「協力要請」や「解放」のフェーズで捕まった場合](scenario/ifCaught.html)
+- [「協力要請」や「神鏡破壊」のフェーズで捕まった場合](scenario/ifCaught.html)
 
 # シナリオ変数
 
