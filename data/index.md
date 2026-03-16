@@ -12,7 +12,7 @@ title: GM用データインデックス
 - [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)
 - [導入後](scenario/03_afterTheIntro.html)
 - [村探索](scenario/04_villageExploration.html)
-- [村探索](scenario/05_villageExplorationEvent.html)
+- [村探索イベント詳細](scenario/05_villageExplorationEvent.html)
 - [真相開示](scenario/06_disclosureOfTheTruth.html)
 - [決断の時](scenario/07_theMomentOfDecision.html)
 - [協力要請](scenario/08_requestForCooperation.html)
@@ -43,3 +43,7 @@ title: GM用データインデックス
 
 - [キャラクターシート](system/characterSheet.html)
 - [サンプルキャラクター](system/sampleCharacter.html)
+
+# ルール（非ゲームデータ）
+
+- [性的・猟奇的な行動](../sexualOrViolent.md)
