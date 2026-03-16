@@ -150,6 +150,4 @@ PlusやGoでさえも、最大25ファイルです。
     - 名義: 泉野 戒
     - URL: https://izuminokai.notion.site/2b54b1119c9b80a6a7a4c6c1efa4cfa3
 - 使用報告は必須ではありません。報告くださる場合は、次のいずれかへお願いします
-    - [Misskey](https://misskey.io/@izuminokai)
-    - [BlurSky](https://bsky.app/profile/izuminokai.bsky.social)
-    - [Twitter](https://x.com/iiii_ask)
+    - [連絡先](index.md#連絡先)

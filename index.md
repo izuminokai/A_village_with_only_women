@@ -9,7 +9,7 @@ title: 生成AI TRPG「女性しかいない村」
 - ChatGPTの無料版にてテスト実施
 - 一部、考える（思考）モードの使用を推奨
     - 「外部ページにアクセスできませんでした」と言われた場合のみ使用
-    - それ以外では、考える（思考）モードは使わない（空回りするため）
+    - それ以外では、考える（思考）モードは非推奨（空回りするため）
 
 ## 遊び方
 
@@ -50,3 +50,9 @@ title: 生成AI TRPG「女性しかいない村」
 流用する際に気をつけるべきポイントを、こちらに記載しています。
 
 [シナリオライターの方へ](toScenarioWriter.html)
+
+## 連絡先
+
+- [Misskey](https://misskey.io/@izuminokai)
+- [BlurSky](https://bsky.app/profile/izuminokai.bsky.social)
+- [Twitter](https://x.com/iiii_ask)
