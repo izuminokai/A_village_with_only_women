@@ -361,7 +361,7 @@ title: ルール
 
 # 性的・猟奇的な行動
 
-- URL: [ルートURL]/system/sexualOrViolent.html
+- URL: [ルートURL]/sexualOrViolent.html
 
 # ゲーム固有設定
 
