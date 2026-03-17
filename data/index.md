@@ -32,6 +32,7 @@ title: GM用データインデックス
 - [同行者](npc/companion.html)
 - [婦人](npc/adultFemale.html)
 - [村長](npc/villageChief.html)
+- [副長](npc/deputyChief.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定
