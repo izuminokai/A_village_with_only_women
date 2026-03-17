@@ -44,7 +44,4 @@ title: GM用データインデックス
 
 - [キャラクターシート](system/characterSheet.html)
 - [サンプルキャラクター](system/sampleCharacter.html)
-
-# ルール（非ゲームデータ）
-
-- [性的・猟奇的な行動](../sexualOrViolent.md)
+- [性的・猟奇的な行動](system/sexualOrViolent.html)
