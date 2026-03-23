@@ -30,12 +30,17 @@
 1. キャラクター作成要請
     - PLに対し、次のように要求
         1. 次のWebページを開き、その内容をお読みください。
-            - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
-        2. それを元に、自身のキャラクターを作成してチャット欄に入力してください。
+            - 免責事項
+                - https://izuminokai.github.io/A_Village_with_Only_Women/disclaimer.html
+            - 導入、キャラクターシート、サンプルキャラクター
+                - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
+        2. キャラクターシートを元に、あなたのキャラクターを作成してチャット欄に入力してください。
+            - キャラクターを作成した時点で、免責事項に同意いただいたものと見なします。
     - 余分な情報を付け加えてはならない。上記の通りに要求する
 2. キャラクターシート検証
     - 内部処理
         - Web検索で[導入_キャラクター作成前]へアクセスする（ページの内容は表示しない）
+            - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
         - PLが[導入_キャラクター作成前.サンプルキャラクター]のキャラクター名を指定していた場合、それに紐づく能力値等を適用する
         - 提出されたキャラクターシートが、[導入_キャラクター作成前.キャラクターシート]の規定に抵触しないか確認
             - 能力値は0～3の範囲内か
@@ -44,18 +49,13 @@
     - 規定に抵触している場合
         - 出力例: ゲームバランスが崩れる恐れがあります。構いませんか？
         - PLが了承すれば、そのままゲーム開始は可能
-3. 導入テキスト表示
-    - [導入_キャラクター作成後]の本文を引用する
-        - 基本的には改変禁止。ただし以下の項目に限り、実際の値に改変して出力すること
-            - 能力値
-            - 最終目標
-        - 見出し等の書式もそのまま引用する
+3. ルールファイルアップロード・導入
+    - PLに対し、次のように要求
+        - 「ルール」のファイルをダウンロードし、ここへアップロードしてください。
+        - 次のWebページを開き、そのテキストをコピーして、チャット欄に貼り付けてください。
+            - https://raw.githubusercontent.com/izuminokai/A_Village_with_Only_Women/refs/heads/main/data/scenario/02_introAfterCharacterCreation.md
+            - 貼り付けたテキストを、1ターン目の[ゲーム進行]
+              と見なします。GMはそのテキストを参考に、2ターン目以降の[ゲーム進行]
+              を行います。
 4. ゲーム進行
     - 以降は、PLからアップロードされた「ルール」のファイルに基づきゲーム進行
-
-# 外部リンク
-
-- 導入_キャラクター作成前
-    - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/01_introBeforeCharacterCreation.html
-- 導入_キャラクター作成後
-    - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.html
