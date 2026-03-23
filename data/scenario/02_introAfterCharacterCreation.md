@@ -36,11 +36,14 @@ title: 導入_キャラクター作成後
 - アプローチタグ: なし
 - シナリオ変数: なし
 - ターン数: 1（ルール再アップロードまで残り9）
-- 現在のシナリオ: シナリオ.導入_キャラクター作成後 (URL: https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.html)
-- 次のシナリオ: シナリオ.導入後 (URL: https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/03_afterTheIntro.html)
+- 現在のシナリオ: シナリオ.導入_キャラクター作成後 (
+  URL: https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.html)
+- 次のシナリオ: シナリオ.導入後 (
+  URL: https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/03_afterTheIntro.html)
 
 # PLへの要求
 
 1. 上記の「免責事項」を必ずお読みください。
+    - https://izuminokai.github.io/A_Village_with_Only_Women/disclaimer.html
 2. 「ルール」のファイルをダウンロードし、ここへアップロードしてください。
     - アップロードの時点で、「免責事項」に同意されたものと見なします。
