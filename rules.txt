@@ -45,9 +45,11 @@ title: ルール
 
 - まだ1ターン目のテキストがPLから提示されていない場合
     - PLに対し、次のように要求
-        - 次のWebページを開き、そのテキストをコピーして、チャット欄に貼り付けてください。
-        - https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.md
-        - このテキストを、1ターン目の[ゲーム進行]と見なします。GMはこれを参考に、2ターン目以降の[ゲーム進行]を行います。
+        ```text
+        次のWebページを開き、そのテキストをコピーして、チャット欄に貼り付けてください。
+        https://izuminokai.github.io/A_Village_with_Only_Women/data/scenario/02_introAfterCharacterCreation.md
+        このテキストを、1ターン目の[ゲーム進行]と見なします。GMはこれを参考に、2ターン目以降の[ゲーム進行]を行います。
+        ```
 - [ターン数] == 1
     - [次のシナリオ]は[シナリオ.導入後]とする
     - 「次の行動を宣言してください。それを元に[参照Webページ提案]を行います」と出力
