@@ -35,6 +35,7 @@ title: GM用データインデックス
 - [副長](npc/deputyChief.html)
 - [巫女](npc/shrineMaiden.html)
 - [同行者の母](npc/companionsMother.html)
+- [師匠](npc/master.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定

@@ -481,6 +481,10 @@ title: ルール
 
 - URL: [ルートURL]/npc/companionsMother.html
 
+## 師匠
+
+- URL: [ルートURL]/npc/master.html
+
 ## その他のNPC
 
 - URL: [ルートURL]/npc/other.html
