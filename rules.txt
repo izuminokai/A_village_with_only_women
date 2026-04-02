@@ -473,6 +473,10 @@ title: ルール
 
 - URL: [ルートURL]/npc/deputyChief.html
 
+## 巫女
+
+- URL: [ルートURL]/npc/shrineMaiden.html
+
 ## その他のNPC
 
 - URL: [ルートURL]/npc/other.html

@@ -33,6 +33,7 @@ title: GM用データインデックス
 - [婦人](npc/adultFemale.html)
 - [村長](npc/villageChief.html)
 - [副長](npc/deputyChief.html)
+- [巫女](npc/shrineMaiden.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定
