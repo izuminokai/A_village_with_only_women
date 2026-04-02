@@ -477,6 +477,10 @@ title: ルール
 
 - URL: [ルートURL]/npc/shrineMaiden.html
 
+## 同行者の母
+
+- URL: [ルートURL]/npc/companionsMother.html
+
 ## その他のNPC
 
 - URL: [ルートURL]/npc/other.html

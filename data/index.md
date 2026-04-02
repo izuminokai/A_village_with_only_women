@@ -34,6 +34,7 @@ title: GM用データインデックス
 - [村長](npc/villageChief.html)
 - [副長](npc/deputyChief.html)
 - [巫女](npc/shrineMaiden.html)
+- [同行者の母](npc/companionsMother.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定
