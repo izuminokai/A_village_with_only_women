@@ -36,6 +36,7 @@ title: GM用データインデックス
 - [巫女](npc/shrineMaiden.html)
 - [同行者の母](npc/companionsMother.html)
 - [師匠](npc/master.html)
+- [看護師](npc/nurse.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定

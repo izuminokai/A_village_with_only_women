@@ -485,6 +485,10 @@ title: ルール
 
 - URL: [ルートURL]/npc/master.html
 
+## 看護師
+
+- URL: [ルートURL]/npc/nurse.html
+
 ## その他のNPC
 
 - URL: [ルートURL]/npc/other.html
